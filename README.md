@@ -1,3 +1,6 @@
+Library forked for personal project yet to be released publicly.
+
+
 SlidingMenu ([Play Store Demo][7])
 ===========
 
